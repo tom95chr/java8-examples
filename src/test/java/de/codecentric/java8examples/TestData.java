@@ -18,7 +18,7 @@ public class TestData {
                 new Person("Michael", "Abrahams", LocalDate.of(1967, 2, 1), Person.Gender.MALE),
                 new Person("Chris", "Cross", LocalDate.of(1985, 8, 22), Person.Gender.MALE),
                 new Person("Pete", "Power", LocalDate.of(1981, 3, 18), Person.Gender.MALE),
-                new Person("Maggie", "Simpson", LocalDate.of(2012, 10, 18), Person.Gender.FEMALE)
+                new Person("Maggie", "Simpson", LocalDate.of(1900, 10, 18), Person.Gender.FEMALE)
         );
     }
 
